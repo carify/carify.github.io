@@ -21,6 +21,23 @@
   transform: translateY(20%);
 }}
 
+.menu-ln {
+  margin-top: 12px;
+  color: #fff;
+  font-family: "Montserrat", arial, sans-serif;
+  letter-spacing: 2px;
+  font-size: 15px;
+  text-transform: uppercase;
+  right: 80px;
+  position: relative;
+  padding-right: 18px;
+  top: 22px;
+}
+
+.menu-right{
+  float:right;
+}
+
 /* Form White */
 
 .form-control.light{
